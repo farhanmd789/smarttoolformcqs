@@ -1,2 +1,5 @@
-# smarttoolformcqs
-**SmartTool for MCQs** is a full-stack web app that generates interactive quizzes from YouTube videos using React.js, Node.js, Express.js, and MongoDB. It ensures secure user authentication with JWT and bcrypt.js, and integrates APIs seamlessly via Axios, CORS, and Dotenv for efficient data handling.
+🧠 SmartTool for MCQs
+SmartTool for MCQs helps learners generate and practice quizzes from video content.
+It tracks quiz history for progress review and provides personalized recommendations targeting weak topics.
+Learners can create learning notes from content, with options to export quizzes, notes, and recommendations as PDFs.
+It also offers documentation suggestions from W3Schools to support topic-wise learning and improvement.
