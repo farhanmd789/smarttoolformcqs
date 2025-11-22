@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://smarttoolformcq.onrender.com';
 
 async function testAuth() {
   console.log('🧪 Testing Authentication Endpoints...\n');
