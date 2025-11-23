@@ -514,7 +514,7 @@ Return ONLY valid JSON, no markdown formatting.
 // Generate personalized learning recommendations from weak topics using Gemini AI
 async function generateRecommendations(weakTopics, videoInfo) {
   try {
-    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-exp" });
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro " });
 
     // Build context string based on whether videoInfo is available
     const contextInfo = videoInfo 
@@ -1294,4 +1294,5 @@ app.get('/health', (req, res) => {
 app.listen(port, () => {
   console.log(`🚀 Server running on http://localhost:${port}`);
 });
+
 
