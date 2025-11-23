@@ -13,10 +13,10 @@ Users can view previously generated quizzes anytime
 🎯 Why This Project Matters
 Educators and students no longer need to manually prepare quiz questions from lectures.
 This system converts video-based learning into an interactive format instantly, saving huge time and improving retention.
-<img width="1910" height="1021" alt="uneducationalcontentdetection" src="https://github.com/user-attachments/assets/6a2063c9-a52f-47bd-844f-2fe66c4e45b6" />
 <img width="1902" height="867" alt="loginpage" src="https://github.com/user-attachments/assets/32784e2c-faed-44a1-b516-82e9604055cb" />
 <img width="1918" height="868" alt="registerpage" src="https://github.com/user-attachments/assets/a2d1f8e9-3000-4d94-8750-2279a33e89a4" />
 <img width="1918" height="875" alt="homepage" src="https://github.com/user-attachments/assets/25ffcea5-26b9-462d-9e3e-2cd96a2f6974" />
+<img width="1917" height="868" alt="uneducationalcontentblock" src="https://github.com/user-attachments/assets/12c00d14-6fda-4dd4-a09b-79ae93390e75" />
 <img width="1918" height="876" alt="generatepage" src="https://github.com/user-attachments/assets/6b738dae-2d84-435a-a16f-06071d2f6002" />
 <img width="1917" height="875" alt="quizwritepage" src="https://github.com/user-attachments/assets/2af3d279-48b9-4f73-851a-1454d5abd925" />
 <img width="1497" height="968" alt="quizwritepdf" src="https://github.com/user-attachments/assets/20d19cdd-05c8-48fe-8ac4-85b0cb4a1dee" />
