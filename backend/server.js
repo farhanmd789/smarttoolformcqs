@@ -794,7 +794,7 @@ app.post('/auth/login', async (req, res) => {
 
     // Set CORS headers
     res.header('Access-Control-Allow-Origin', process.env.FRONTEND_ORIGIN);
-    res.header('Access-Control-Allow-Credentials', 'true');
+    res.header('Access-Control-Allow-Origin', FRONTEND_ORIGIN);
     res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
     res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization');
     
@@ -1294,3 +1294,4 @@ app.get('/health', (req, res) => {
 app.listen(port, () => {
   console.log(`🚀 Server running on http://localhost:${port}`);
 });
+
