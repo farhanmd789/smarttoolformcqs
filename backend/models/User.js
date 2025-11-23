@@ -177,8 +177,6 @@ userSchema.methods.toJSON = function() {
 };
 
 // Indexes for faster queries
-userSchema.index({ email: 1 });
-userSchema.index({ username: 1 });
 userSchema.index({ createdAt: -1 });
 userSchema.index({ 'passwordResetToken': 1, 'passwordResetExpires': 1 });
 
