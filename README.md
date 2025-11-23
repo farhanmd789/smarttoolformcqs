@@ -13,12 +13,6 @@ Users can view previously generated quizzes anytime
 🎯 Why This Project Matters
 Educators and students no longer need to manually prepare quiz questions from lectures.
 This system converts video-based learning into an interactive format instantly, saving huge time and improving retention.
-<img width="1917" height="955" alt="Screenshot 2025-10-12 222939" src="https://github.com/user-attachments/assets/ea4d6e73-d01c-4e4e-9f67-b06a513a7505" />
-<img width="1916" height="882" alt="quizpage" src="https://github.com/user-attachments/assets/d77e3bd4-4e17-44d2-b07e-8367f8aadcc2" />
-<img width="1698" height="847" alt="quizpage4" src="https://github.com/user-attachments/assets/8473ee11-98a5-4b40-b996-76c356436c42" />
-<img width="1916" height="860" alt="quizpage5" src="https://github.com/user-attachments/assets/0025a430-5107-46e9-b8ae-52f8479a3476" />
-<img width="1918" height="1012" alt="notespdf" src="https://github.com/user-attachments/assets/d39a544c-97b3-47d7-9792-63aa55403a20" />
-<img width="1918" height="875" alt="historypage" src="https://github.com/user-attachments/assets/05950abe-49b5-437b-b06d-2a9d68847550" />
 <img width="1910" height="1021" alt="uneducationalcontentdetection" src="https://github.com/user-attachments/assets/6a2063c9-a52f-47bd-844f-2fe66c4e45b6" />
 <img width="1902" height="867" alt="loginpage" src="https://github.com/user-attachments/assets/32784e2c-faed-44a1-b516-82e9604055cb" />
 <img width="1918" height="868" alt="registerpage" src="https://github.com/user-attachments/assets/a2d1f8e9-3000-4d94-8750-2279a33e89a4" />
