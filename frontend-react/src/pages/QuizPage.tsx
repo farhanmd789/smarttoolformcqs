@@ -8,10 +8,12 @@ import { Quiz, UserAnswer, QuizResult } from '../types';
 import { exportQuizResultAsPDF } from '../utils/pdfExport';
 import { FiDownload, FiHome, FiCheckCircle, FiXCircle, FiBook } from 'react-icons/fi';
 import toast, { Toaster } from 'react-hot-toast';
+import { useNavigate } from 'react-router-dom';
 
 type ViewState = 'generate' | 'taking' | 'results';
 
 export const QuizPage: React.FC = () => {
+  const navigate = useNavigate();
   // Form state
   const [youtubeUrl, setYoutubeUrl] = useState('');
   const [numQuestions, setNumQuestions] = useState(15);
@@ -480,7 +482,7 @@ export const QuizPage: React.FC = () => {
               </Button>
               <Button 
                 variant="secondary" 
-                onClick={() => window.location.href = '/Notes'}
+                onClick={() => navigate('/notes')}
               >
                 <FiBook className="mr-2" />
                 View Learning Notes
