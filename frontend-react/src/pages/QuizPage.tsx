@@ -480,7 +480,7 @@ export const QuizPage: React.FC = () => {
               </Button>
               <Button 
                 variant="secondary" 
-                onClick={() => window.location.href = '/notes'}
+                onClick={() => window.location.href = '/Notes'}
               >
                 <FiBook className="mr-2" />
                 View Learning Notes
